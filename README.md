@@ -11,7 +11,7 @@ API REST criada em ASP.NET Core com Entity Framework para gerenciar o cadastro d
 - 🟣 **.NET 6** – plataforma principal da API
 - 🗄️ **Entity Framework Core (InMemory)** – para salvar dados sem banco real (ideal pra testes!)
 - 📘 **Swagger** – teste todos os endpoints direto no navegador
-- 💻 **Visual Studio Code** (ou seu editor favorito)
+- 💻 **Visual Studio Code** 
 - 🔤 **C#** – o coração do projeto
 
 ---
